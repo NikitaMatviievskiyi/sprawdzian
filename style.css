@@ -23,7 +23,7 @@ body {
 #panel-lewy {
     background-color: var(--panel-lewy-color);
     width: 20%;
-    height: 250px;
+    height: 500px;
     float: left;
     padding: 20px;
 }
@@ -68,3 +68,4 @@ tr:hover {
     background-color: var(--hover-color);
     color: black;
 }
+
